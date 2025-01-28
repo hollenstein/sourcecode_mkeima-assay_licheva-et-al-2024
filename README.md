@@ -1,4 +1,11 @@
-# Publication source repository for mKeima assays in Licheva et al. 2024
+# Publication source repository for mKeima assays in Licheva et al. 2025
+
+**Phase separation of initiation hubs on cargo is a trigger switch for selective autophagy**
+<br>
+*Mariya Licheva, Jeremy Pflaum, Riccardo Babic, Hector Mancilla, Jana Elsässer, Emily Boyle, David M. Hollenstein, Jorge Jimenez-Niebla, Jonas Pleyer, Mio Heinrich, Franz-Georg Wieland, Joachim Brenneisen, Christopher Eickhorst, Johann Brenner, Shan Jiang, Markus Hartl, Sonja Welsch, Carola Hunte, Jens Timmer, Florian Wilfling and Claudine Kraft*
+
+Published in Nature Cell Biology (January 7, 2025)<br>
+DOI: [10.1038/s41556-024-01572-y](https://doi.org/10.1038/s41556-024-01572-y)
 
 This repository provides the complete source code that was used for processing of the cell sorting data from the mKeima assay used in this study and for creating the plots related to the mKeima assay shown in the publication. Please refer to the sections below for detailed instructions on how to reproduce the data analysis from the publication.
 
